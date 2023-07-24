@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>test</name>
+    <displayName><![CDATA[TEST TEST]]></displayName>
+    <version><![CDATA[0.0.1]]></version>
+    <description><![CDATA[TEST TEST]]></description>
+    <author><![CDATA[TEST]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
